@@ -8,7 +8,7 @@ load_dotenv()
 
 # Define custom prompt template
 prompt = ChatPromptTemplate.from_messages([
-    ("system", "You will answer at bangla"),
+    ("system", "You are a coding assistant. you will do assignment and write efficient human like code to avoid plagarism. "),
     MessagesPlaceholder(variable_name="history"),
     ("human", "{input}")
 ])
