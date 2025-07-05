@@ -106,7 +106,7 @@ Feel free to open issues or pull requests. If you find this project useful, give
 ## 📬 Contact
 
 Developed by \[Your Name]
-📧 [your.email@example.com](mailto:labibalif2001@gmail.com)
+📧 [labibalif2001@gmail.com](mailto:labibalif2001@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/labibul-ahsan-alif-b70974291/?originalSubdomain=bd)
 
 ---
