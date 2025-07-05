@@ -9,7 +9,6 @@ This is an interactive **AI Chatbot web app** built using [Streamlit](https://st
 
 ## 🚀 Features
 
-- 💬 Conversational memory to preserve context
 - ⚡ Powered by **LLaMA 3 70B** via Groq for high performance
 - 📚 Uses LangChain's conversation chaining & memory
 - 🧠 Designed as a smart coding assistant
